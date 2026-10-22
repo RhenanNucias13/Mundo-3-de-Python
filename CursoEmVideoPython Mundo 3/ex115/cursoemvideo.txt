@@ -1,0 +1,5 @@
+Rhenan;16
+Juvenal;44
+Pedro;23
+José;21
+Duda;16
